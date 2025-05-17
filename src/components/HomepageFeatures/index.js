@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Clases en Video',
+    Svg: require('@site/static/img/undraw_video_files.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Accede a todas las clases del curso en formato video, organizadas y disponibles desde nuestro canal de YouTube, directamente en esta página.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Aprende a Tu Ritmo',
+    Svg: require('@site/static/img/undraw_online_learning.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Mira las clases cuando quieras y repítelas las veces que necesites. Diseñado para adaptarse a tu horario y estilo de aprendizaje.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Contenido Enfocado',
+    Svg: require('@site/static/img/undraw_task_list.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Cada clase cubre un tema específico de Word, permitiéndote avanzar paso a paso sin distracciones ni información innecesaria.
       </>
     ),
   },
