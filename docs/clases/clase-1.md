@@ -17,7 +17,7 @@ sidebar_label: 'Clase 1: Introducción a Microsoft Word'
 
 ## Videolección
 
-<div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden' }}>
+<!-- <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden' }}>
   <iframe 
     src="https://www.youtube.com/embed/n0yn3TZ1lSQ"
     title="YouTube video player"
@@ -26,4 +26,6 @@ sidebar_label: 'Clase 1: Introducción a Microsoft Word'
     allowFullScreen
     style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
   ></iframe>
-</div>
+</div> -->
+
+Pendiente
